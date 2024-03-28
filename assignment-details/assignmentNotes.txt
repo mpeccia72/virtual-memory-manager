@@ -1,0 +1,9 @@
+Summary of "assignment.pdf"
+
+Concepts (
+	- virtual address space
+	- TLB
+	- page table
+	)
+
+GOAL: Translate logical addresses to physical address and output the value of the byte stored at the translated physical address
